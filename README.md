@@ -1,2 +1,0 @@
-# paginawebempresa
-Generacion del readme
